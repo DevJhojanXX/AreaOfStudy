@@ -99,3 +99,19 @@ build/
 .classpath
 .project
 .settings/
+
+# Compiled JavaScript files
+*.js
+*.js.map
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Node.js dependencies
+/node_modules
+
+# Compiled TypeScript files
+dist/
+
+# Visual Studio Code directory
+.vscode/

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@color/cardview_dark_background"
+    android:layout_width="match_parent"
+    android:orientation="horizontal"
+    android:layout_height="50dp"
+    android:padding="10dp"
+    >
+    <TextView
+        android:layout_height="wrap_content"
+        android:textColor="@color/white"
+        android:id="@+id/tv_title_todo"
+        android:textAlignment="center"
+        android:hint="@string/prueba"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:textSize="20sp" />
+    <CheckBox
+        android:id="@+id/cb_completed"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+</androidx.appcompat.widget.LinearLayoutCompat>
