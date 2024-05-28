@@ -1,0 +1,14 @@
+[EL Info]: 2019-08-20 19:43:29.004--ServerSession(182670350)--EclipseLink, version: Eclipse Persistence Services - 2.7.4.v20190115-ad5b7c6b2a
+[EL Info]: connection: 2019-08-20 19:43:29.199--ServerSession(182670350)--/file:/C:/Cursos/JavaEE/Leccion05/sga-jee-web/target/classes/_SgaPU login successful
+[EL Fine]: sql: 2019-08-20 19:43:29.242--ServerSession(182670350)--Connection(588449070)--SELECT id_persona, APELLIDO, EMAIL, NOMBRE, TELEFONO FROM PERSONA
+19:43:29 [main] DEBUG  - Persona:Persona{idPersona=1, nombre=Juan, apellido=Juarez, email=j.juarez@mail.com, telefono=5513445567}
+[EL Fine]: sql: 2019-08-20 19:43:29.3--ServerSession(182670350)--Connection(588449070)--SELECT id_usuario, PASSWORD, USERNAME, id_persona FROM USUARIO WHERE (id_persona = ?)
+	bind => [1 parameter bound]
+19:43:29 [main] DEBUG  - Usuario:Usuario{idUsuario=1, username=jperez, password=123, persona=Persona{idPersona=1, nombre=Juan, apellido=Juarez, email=j.juarez@mail.com, telefono=5513445567}}
+19:43:29 [main] DEBUG  - Persona:Persona{idPersona=2, nombre=Karla, apellido=Gomez, email=kgomez@mail.com, telefono=7713445678}
+[EL Fine]: sql: 2019-08-20 19:43:29.308--ServerSession(182670350)--Connection(588449070)--SELECT id_usuario, PASSWORD, USERNAME, id_persona FROM USUARIO WHERE (id_persona = ?)
+	bind => [1 parameter bound]
+19:43:29 [main] DEBUG  - Usuario:Usuario{idUsuario=2, username=kgomez, password=123, persona=Persona{idPersona=2, nombre=Karla, apellido=Gomez, email=kgomez@mail.com, telefono=7713445678}}
+19:43:29 [main] DEBUG  - Persona:Persona{idPersona=3, nombre=Maria, apellido=Gutierrez, email=mgutierrez@mail.com, telefono=88991199}
+[EL Fine]: sql: 2019-08-20 19:43:29.309--ServerSession(182670350)--Connection(588449070)--SELECT id_usuario, PASSWORD, USERNAME, id_persona FROM USUARIO WHERE (id_persona = ?)
+	bind => [1 parameter bound]
