@@ -1,0 +1,101 @@
+# Dependencias instaladas con npm
+/node_modules
+
+# Directorio de dependencias instaladas con Yarn
+/yarn.lock
+
+# Directorio de dependencias instaladas con pnpm
+/pnpm-lock.yaml
+
+# Directorio de archivos binarios generados
+/bin
+
+# Directorio de archivos generados durante la construcción
+/build
+
+# Archivos de registro
+/logs
+
+# Archivos de configuración locales
+.env
+
+# Archivos de respaldo
+*.bak
+
+# Archivos de caché
+*.cache
+
+# Archivos de registro
+*.log
+
+# Archivos de resultados de pruebas
+*.test-result
+
+# Carpeta de cobertura de código
+/coverage
+
+# Archivos de datos temporales
+.tmp
+
+# Archivos de paquetes
+*.zip
+*.tgz
+
+# Dependencias opcionales que no se requieren en desarrollo
+optional-dependency
+
+# Directorio de caché de Babel
+.babel-cache
+
+# Historial de shell
+.history
+
+# Carpetas de IDE
+.idea
+.vscode
+
+
+
+# Historial de shell
+.history
+
+
+# Compiled Java packages
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+/target/
+
+# Gradle files
+.gradle/
+
+# Eclipse project files
+.classpath
+.project
+.settings/
+
+# IntelliJ project files
+.idea/
+*.iml
+
+# NetBeans project files
+nbproject/
+build/
+
+# Compiled Kotlin files
+*.class
+
+# Gradle files
+.gradle/
+build/
+
+# IntelliJ project files
+.idea/
+*.iml
+
+# Eclipse project files
+.classpath
+.project
+.settings/
