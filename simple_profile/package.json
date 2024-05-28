@@ -1,0 +1,15 @@
+{
+  "name": "simple_profile",
+  "version": "1.0.0",
+  "description": "a simple profile",
+  "main": "main.js",
+  "scripts": {
+    "start": "tsc -w",
+    "test": "test"
+  },
+  "author": "DevToro",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.4.5"
+  }
+}
