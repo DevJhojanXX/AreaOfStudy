@@ -1,0 +1,44 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Python Virtual Environments
+venv/
+env/
+
+# .vscode directory
+.vscode/
+
+# lib del entorno vrtual
+evfs/lib/
+
+
+# IDE-specific files
+*.suo
+*.user
+*.suo
+*.user
+
+# Logs
+*.log
+
+# Environment
+.env
+
+# SQLite database file
+*.sqlite
+
+# Dependency management
+*.egg-info/
+dist/
+build/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# FastAPI specific
+__pydantic_main__.py
+__init__.py
+__pycache__/main.cpython-3*.pyc
