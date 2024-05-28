@@ -1,0 +1,13 @@
+# Proceso
+ - [ ] Tener el tema
+ - Lunes
+	 - [ ] Investigar sobre el tema en cuestión en este día 
+		 - Máximo 2 temas 
+	 - [ ] Si hay más de 2 temas dejarlos como videos futuros
+ - Martes
+	 - [ ] Hacer los videos o el video ( Recordar renombrarlos una vez grabado)
+ - Miércoles
+	 - [ ] Editar los videos o el video
+ - Jueves 
+	 - [ ] Subir el Video a las Redes (YouTube y Facebook ) y dividirlo en reals y en shorts 
+---

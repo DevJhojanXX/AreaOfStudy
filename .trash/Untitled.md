@@ -1,0 +1,4 @@
+- [x] Hablar con Alison
+- [ ] Enviar hojas de vida Macro
+- [ ] Enviar hojas de vida al D1
+- [ ] 
