@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pokedesk-Console", "pokedesk-Console.csproj", "{2BD4CF40-06E7-4FFB-8257-60160C04C28D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConnectPokeApi", "..\..\automation\PokeApi\C#\ConnectPokeApi\ConnectPokeApi.csproj", "{2EB518F3-3915-4ACE-9D18-04CE2420D568}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BD4CF40-06E7-4FFB-8257-60160C04C28D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BD4CF40-06E7-4FFB-8257-60160C04C28D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BD4CF40-06E7-4FFB-8257-60160C04C28D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BD4CF40-06E7-4FFB-8257-60160C04C28D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EB518F3-3915-4ACE-9D18-04CE2420D568}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EB518F3-3915-4ACE-9D18-04CE2420D568}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EB518F3-3915-4ACE-9D18-04CE2420D568}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EB518F3-3915-4ACE-9D18-04CE2420D568}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A71A1635-5A88-4B8F-8E6B-1AAFB36851F8}
+	EndGlobalSection
+EndGlobal
