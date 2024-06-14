@@ -15,4 +15,8 @@
     <Folder Include="DB\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\automation\Animals\C#\Animals\Animals.csproj" />
+  </ItemGroup>
+
 </Project>

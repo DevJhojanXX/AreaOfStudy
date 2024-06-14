@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.34928.147
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConnectDB", "ConnectDB.csproj", "{D5694607-FB76-4447-91A1-320F03552BAB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConnectDB", "ConnectDB.csproj", "{D5694607-FB76-4447-91A1-320F03552BAB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Animals", "..\..\automation\Animals\C#\Animals\Animals.csproj", "{C145B800-8AE7-42FC-9191-28FCC7026A9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConnectBDLocal", "..\..\automation\ConnectBDLocal\ConnectBDLocal.csproj", "{C0103ABA-7C1C-42D1-8D5A-5D59A8E231E3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{D5694607-FB76-4447-91A1-320F03552BAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D5694607-FB76-4447-91A1-320F03552BAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D5694607-FB76-4447-91A1-320F03552BAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C145B800-8AE7-42FC-9191-28FCC7026A9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C145B800-8AE7-42FC-9191-28FCC7026A9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C145B800-8AE7-42FC-9191-28FCC7026A9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C145B800-8AE7-42FC-9191-28FCC7026A9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0103ABA-7C1C-42D1-8D5A-5D59A8E231E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0103ABA-7C1C-42D1-8D5A-5D59A8E231E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0103ABA-7C1C-42D1-8D5A-5D59A8E231E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0103ABA-7C1C-42D1-8D5A-5D59A8E231E3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
