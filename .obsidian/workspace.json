@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TypesCriptWhitDom/node_modules/typescript/SECURITY.md",
+                "file": "Angular/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TypesCriptWhitDom/node_modules/typescript/SECURITY.md",
+                "file": "Angular/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TypesCriptWhitDom/node_modules/typescript/SECURITY.md",
+                "file": "Angular/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TypesCriptWhitDom/node_modules/typescript/SECURITY.md"
+                "file": "Angular/README.md"
               }
             }
           },
@@ -159,16 +159,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "graph:Open graph view": false,
-      "switcher:Open quick switcher": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
     }
   },
   "active": "fee4dcddf0923621",
   "lastOpenFiles": [
+    "Angular/README.md",
+    "Angular",
+    "Mockaps/Calculator.md",
     "README.md",
     "pruebasLeedCode/node_modules/typescript/README.md",
     "pruebasLeedCode/Proof Leed Code.md",
@@ -197,13 +201,10 @@
     "Diario/Creador de Contenido",
     "Youtube y Facebook/Proceso.md",
     "Diario/Primer Día.md",
-    "Youtube y Facebook/Sin título.md",
     "Diario",
-    "Youtube y Facebook/NestJs/proceso.md",
     "Youtube y Facebook/NestJs",
     "Youtube/HTML-CSS & Ts/HTML",
     "Youtube y Facebook/HTML-CSS & Ts",
-    "Youtube y Facebook",
-    "Plantilla de Procesos"
+    "Youtube y Facebook"
   ]
 }
