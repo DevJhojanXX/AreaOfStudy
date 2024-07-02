@@ -1,4 +1,6 @@
 [
   "obsidian-excalidraw-plugin",
-  "obsidian-task-progress-bar"
+  "obsidian-task-progress-bar",
+  "obsidian-git",
+  "code-emitter"
 ]

@@ -1,3 +1,11 @@
 package com.jdtp.todo_list_proof4.app.data
 
-data class Todo()
+import kotlinx.serialization.Serializable
+
+@Serializable
+data class Todo(
+    val id: Int,
+    val name: String,
+    val isCompleted: Boolean
+)
+

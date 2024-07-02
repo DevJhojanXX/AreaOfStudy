@@ -1,1 +1,27 @@
-[]
+[
+  {
+    "id": 1,
+    "name": "Completar tarea de matemáticas",
+    "isCompleted": false
+  },
+  {
+    "id": 2,
+    "name": "Enviar informe semanal",
+    "isCompleted": true
+  },
+  {
+    "id": 3,
+    "name": "Preparar presentación para reunión",
+    "isCompleted": false
+  },
+  {
+    "id": 4,
+    "name": "Hacer ejercicio",
+    "isCompleted": false
+  },
+  {
+    "id": 5,
+    "name": "Comprar víveres",
+    "isCompleted": true
+  }
+]

@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7e5a146a573e3856",
+        "id": "c645d90a2d368dfa",
         "type": "tabs",
         "children": [
           {
-            "id": "fee4dcddf0923621",
+            "id": "8f4d095198c63416",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Angular/README.md",
-                "mode": "source",
+                "file": "Diario/JetPack Compose.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Angular/README.md",
+                "file": "Diario/JetPack Compose.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Angular/README.md",
+                "file": "Diario/JetPack Compose.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Angular/README.md"
+                "file": "Diario/JetPack Compose.md"
               }
             }
           },
@@ -150,8 +150,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -168,9 +167,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "fee4dcddf0923621",
+  "active": "edd29828e279fdae",
   "lastOpenFiles": [
+    "Diario/JetPack Compose.md",
     "Angular/README.md",
+    "Diario",
     "Angular",
     "Mockaps/Calculator.md",
     "README.md",
@@ -200,11 +201,9 @@
     "Oidos Abiertos.md",
     "Diario/Creador de Contenido",
     "Youtube y Facebook/Proceso.md",
-    "Diario/Primer Día.md",
     "Diario",
     "Youtube y Facebook/NestJs",
     "Youtube/HTML-CSS & Ts/HTML",
-    "Youtube y Facebook/HTML-CSS & Ts",
-    "Youtube y Facebook"
+    "Youtube y Facebook/HTML-CSS & Ts"
   ]
 }
